@@ -42,4 +42,4 @@ if __name__ == '__main__':
             print tarea()
 
     else:
-        print("Hemos terminado nuestra tarea,\nHasta pronto")
+        print("Hemos finalizado nuestra tarea,\nHasta pronto")
